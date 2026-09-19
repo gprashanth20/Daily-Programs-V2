@@ -1,51 +1,225 @@
 {
   "_comment": "Add your own topics anywhere in this list. Each run pops the first 2 entries and moves them to history.json. Keep 'title' short - it becomes the class name (spaces removed).",
   "queue": [
-    { "title": "Binary Search", "category": "DSA", "notes": "Iterative + recursive versions" },
-    { "title": "Bubble Sort", "category": "DSA", "notes": "" },
-    { "title": "Merge Sort", "category": "DSA", "notes": "" },
-    { "title": "Quick Sort", "category": "DSA", "notes": "" },
-    { "title": "Linked List Reversal", "category": "DSA", "notes": "Singly linked list" },
-    { "title": "Detect Cycle In Linked List", "category": "DSA", "notes": "Floyd's algorithm" },
-    { "title": "Stack Using Array", "category": "DSA", "notes": "" },
-    { "title": "Queue Using Linked List", "category": "DSA", "notes": "" },
-    { "title": "Binary Tree Traversal", "category": "DSA", "notes": "In-order, pre-order, post-order" },
-    { "title": "BFS Graph", "category": "DSA", "notes": "" },
-    { "title": "DFS Graph", "category": "DSA", "notes": "" },
-    { "title": "Dijkstra Shortest Path", "category": "DSA", "notes": "" },
-    { "title": "Fibonacci Memoization", "category": "DSA", "notes": "Top-down DP" },
-    { "title": "Longest Common Subsequence", "category": "DSA", "notes": "DP" },
-    { "title": "Knapsack Problem", "category": "DSA", "notes": "0/1 DP" },
-    { "title": "Sliding Window Max Subarray", "category": "DSA", "notes": "" },
-    { "title": "Two Sum HashMap", "category": "DSA", "notes": "" },
-    { "title": "LRU Cache", "category": "DSA", "notes": "LinkedHashMap or custom doubly linked list" },
-    { "title": "Trie Implementation", "category": "DSA", "notes": "" },
-    { "title": "Heap Sort", "category": "DSA", "notes": "" },
-    { "title": "Singleton Pattern", "category": "Design Pattern", "notes": "Thread-safe version" },
-    { "title": "Factory Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Builder Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Observer Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Strategy Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Decorator Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Adapter Pattern", "category": "Design Pattern", "notes": "" },
-    { "title": "Producer Consumer", "category": "Concurrency", "notes": "wait/notify or BlockingQueue" },
-    { "title": "Thread Pool Executor Demo", "category": "Concurrency", "notes": "" },
-    { "title": "Synchronized Counter", "category": "Concurrency", "notes": "Race condition fix" },
-    { "title": "CompletableFuture Chaining", "category": "Concurrency", "notes": "" },
-    { "title": "Deadlock Simulation", "category": "Concurrency", "notes": "" },
-    { "title": "Custom Exception Handling", "category": "Core Java", "notes": "" },
-    { "title": "Generics Bounded Type", "category": "Core Java", "notes": "" },
-    { "title": "Stream API Grouping", "category": "Core Java", "notes": "Collectors.groupingBy" },
-    { "title": "Optional Chaining", "category": "Core Java", "notes": "" },
-    { "title": "Records And Pattern Matching", "category": "Java 21", "notes": "" },
-    { "title": "Sealed Classes Demo", "category": "Java 21", "notes": "" },
-    { "title": "Virtual Threads Demo", "category": "Java 21", "notes": "" },
-    { "title": "Switch Pattern Matching", "category": "Java 21", "notes": "" },
-    { "title": "Text Blocks And String Templates", "category": "Java 21", "notes": "" },
-    { "title": "File IO Read Write", "category": "Core Java", "notes": "NIO.2 Files API" },
-    { "title": "REST Client Using HttpClient", "category": "Core Java", "notes": "java.net.http" },
-    { "title": "JSON Parsing Without Library", "category": "Core Java", "notes": "Basic hand-rolled parser" },
-    { "title": "Comparator Chaining", "category": "Core Java", "notes": "" },
-    { "title": "Immutable Class Design", "category": "Core Java", "notes": "" }
+    {
+      "title": "Merge Sort",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Quick Sort",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Linked List Reversal",
+      "category": "DSA",
+      "notes": "Singly linked list"
+    },
+    {
+      "title": "Detect Cycle In Linked List",
+      "category": "DSA",
+      "notes": "Floyd's algorithm"
+    },
+    {
+      "title": "Stack Using Array",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Queue Using Linked List",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Binary Tree Traversal",
+      "category": "DSA",
+      "notes": "In-order, pre-order, post-order"
+    },
+    {
+      "title": "BFS Graph",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "DFS Graph",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Dijkstra Shortest Path",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Fibonacci Memoization",
+      "category": "DSA",
+      "notes": "Top-down DP"
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "category": "DSA",
+      "notes": "DP"
+    },
+    {
+      "title": "Knapsack Problem",
+      "category": "DSA",
+      "notes": "0/1 DP"
+    },
+    {
+      "title": "Sliding Window Max Subarray",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Two Sum HashMap",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "LRU Cache",
+      "category": "DSA",
+      "notes": "LinkedHashMap or custom doubly linked list"
+    },
+    {
+      "title": "Trie Implementation",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Heap Sort",
+      "category": "DSA",
+      "notes": ""
+    },
+    {
+      "title": "Singleton Pattern",
+      "category": "Design Pattern",
+      "notes": "Thread-safe version"
+    },
+    {
+      "title": "Factory Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Builder Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Observer Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Strategy Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Decorator Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Adapter Pattern",
+      "category": "Design Pattern",
+      "notes": ""
+    },
+    {
+      "title": "Producer Consumer",
+      "category": "Concurrency",
+      "notes": "wait/notify or BlockingQueue"
+    },
+    {
+      "title": "Thread Pool Executor Demo",
+      "category": "Concurrency",
+      "notes": ""
+    },
+    {
+      "title": "Synchronized Counter",
+      "category": "Concurrency",
+      "notes": "Race condition fix"
+    },
+    {
+      "title": "CompletableFuture Chaining",
+      "category": "Concurrency",
+      "notes": ""
+    },
+    {
+      "title": "Deadlock Simulation",
+      "category": "Concurrency",
+      "notes": ""
+    },
+    {
+      "title": "Custom Exception Handling",
+      "category": "Core Java",
+      "notes": ""
+    },
+    {
+      "title": "Generics Bounded Type",
+      "category": "Core Java",
+      "notes": ""
+    },
+    {
+      "title": "Stream API Grouping",
+      "category": "Core Java",
+      "notes": "Collectors.groupingBy"
+    },
+    {
+      "title": "Optional Chaining",
+      "category": "Core Java",
+      "notes": ""
+    },
+    {
+      "title": "Records And Pattern Matching",
+      "category": "Java 21",
+      "notes": ""
+    },
+    {
+      "title": "Sealed Classes Demo",
+      "category": "Java 21",
+      "notes": ""
+    },
+    {
+      "title": "Virtual Threads Demo",
+      "category": "Java 21",
+      "notes": ""
+    },
+    {
+      "title": "Switch Pattern Matching",
+      "category": "Java 21",
+      "notes": ""
+    },
+    {
+      "title": "Text Blocks And String Templates",
+      "category": "Java 21",
+      "notes": ""
+    },
+    {
+      "title": "File IO Read Write",
+      "category": "Core Java",
+      "notes": "NIO.2 Files API"
+    },
+    {
+      "title": "REST Client Using HttpClient",
+      "category": "Core Java",
+      "notes": "java.net.http"
+    },
+    {
+      "title": "JSON Parsing Without Library",
+      "category": "Core Java",
+      "notes": "Basic hand-rolled parser"
+    },
+    {
+      "title": "Comparator Chaining",
+      "category": "Core Java",
+      "notes": ""
+    },
+    {
+      "title": "Immutable Class Design",
+      "category": "Core Java",
+      "notes": ""
+    }
   ]
 }

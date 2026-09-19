@@ -1,3 +1,18 @@
 {
-  "completed": []
+  "completed": [
+    {
+      "title": "Binary Search",
+      "category": "DSA",
+      "notes": "Iterative + recursive versions",
+      "completed_on": "2026-09-19",
+      "file": "programs/dsa/BinarySearch.java"
+    },
+    {
+      "title": "Bubble Sort",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-19",
+      "file": "programs/dsa/BubbleSort.java"
+    }
+  ]
 }
