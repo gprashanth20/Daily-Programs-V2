@@ -13,6 +13,20 @@
       "notes": "",
       "completed_on": "2026-09-19",
       "file": "programs/dsa/BubbleSort.java"
+    },
+    {
+      "title": "Merge Sort",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-20",
+      "file": "programs/dsa/MergeSort.java"
+    },
+    {
+      "title": "Quick Sort",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-20",
+      "file": "programs/dsa/QuickSort.java"
     }
   ]
 }

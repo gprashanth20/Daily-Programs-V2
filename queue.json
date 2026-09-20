@@ -2,16 +2,6 @@
   "_comment": "Add your own topics anywhere in this list. Each run pops the first 2 entries and moves them to history.json. Keep 'title' short - it becomes the class name (spaces removed).",
   "queue": [
     {
-      "title": "Merge Sort",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
-      "title": "Quick Sort",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
       "title": "Linked List Reversal",
       "category": "DSA",
       "notes": "Singly linked list"
