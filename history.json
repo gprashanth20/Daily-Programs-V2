@@ -27,6 +27,20 @@
       "notes": "",
       "completed_on": "2026-09-20",
       "file": "programs/dsa/QuickSort.java"
+    },
+    {
+      "title": "Linked List Reversal",
+      "category": "DSA",
+      "notes": "Singly linked list",
+      "completed_on": "2026-09-21",
+      "file": "programs/dsa/LinkedListReversal.java"
+    },
+    {
+      "title": "Detect Cycle In Linked List",
+      "category": "DSA",
+      "notes": "Floyd's algorithm",
+      "completed_on": "2026-09-21",
+      "file": "programs/dsa/DetectCycleInLinkedList.java"
     }
   ]
 }
