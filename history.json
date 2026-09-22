@@ -41,6 +41,20 @@
       "notes": "Floyd's algorithm",
       "completed_on": "2026-09-21",
       "file": "programs/dsa/DetectCycleInLinkedList.java"
+    },
+    {
+      "title": "Stack Using Array",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-22",
+      "file": "programs/dsa/StackUsingArray.java"
+    },
+    {
+      "title": "Queue Using Linked List",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-22",
+      "file": "programs/dsa/QueueUsingLinkedList.java"
     }
   ]
 }

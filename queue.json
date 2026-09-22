@@ -2,16 +2,6 @@
   "_comment": "Add your own topics anywhere in this list. Each run pops the first 2 entries and moves them to history.json. Keep 'title' short - it becomes the class name (spaces removed).",
   "queue": [
     {
-      "title": "Stack Using Array",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
-      "title": "Queue Using Linked List",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
       "title": "Binary Tree Traversal",
       "category": "DSA",
       "notes": "In-order, pre-order, post-order"
