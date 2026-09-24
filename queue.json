@@ -2,16 +2,6 @@
   "_comment": "Add your own topics anywhere in this list. Each run pops the first 2 entries and moves them to history.json. Keep 'title' short - it becomes the class name (spaces removed).",
   "queue": [
     {
-      "title": "DFS Graph",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
-      "title": "Dijkstra Shortest Path",
-      "category": "DSA",
-      "notes": ""
-    },
-    {
       "title": "Fibonacci Memoization",
       "category": "DSA",
       "notes": "Top-down DP"
