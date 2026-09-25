@@ -83,6 +83,20 @@
       "notes": "",
       "completed_on": "2026-09-24",
       "file": "programs/dsa/DijkstraShortestPath.java"
+    },
+    {
+      "title": "Fibonacci Memoization",
+      "category": "DSA",
+      "notes": "Top-down DP",
+      "completed_on": "2026-09-25",
+      "file": "programs/dsa/FibonacciMemoization.java"
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "category": "DSA",
+      "notes": "DP",
+      "completed_on": "2026-09-25",
+      "file": "programs/dsa/LongestCommonSubsequence.java"
     }
   ]
 }
