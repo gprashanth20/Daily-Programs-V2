@@ -97,6 +97,20 @@
       "notes": "DP",
       "completed_on": "2026-09-25",
       "file": "programs/dsa/LongestCommonSubsequence.java"
+    },
+    {
+      "title": "Knapsack Problem",
+      "category": "DSA",
+      "notes": "0/1 DP",
+      "completed_on": "2026-09-26",
+      "file": "programs/dsa/KnapsackProblem.java"
+    },
+    {
+      "title": "Sliding Window Max Subarray",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-26",
+      "file": "programs/dsa/SlidingWindowMaxSubarray.java"
     }
   ]
 }
