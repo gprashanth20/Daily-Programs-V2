@@ -111,6 +111,20 @@
       "notes": "",
       "completed_on": "2026-09-26",
       "file": "programs/dsa/SlidingWindowMaxSubarray.java"
+    },
+    {
+      "title": "Two Sum HashMap",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-27",
+      "file": "programs/dsa/TwoSumHashmap.java"
+    },
+    {
+      "title": "LRU Cache",
+      "category": "DSA",
+      "notes": "LinkedHashMap or custom doubly linked list",
+      "completed_on": "2026-09-27",
+      "file": "programs/dsa/LruCache.java"
     }
   ]
 }
