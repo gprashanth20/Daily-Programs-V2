@@ -125,6 +125,20 @@
       "notes": "LinkedHashMap or custom doubly linked list",
       "completed_on": "2026-09-27",
       "file": "programs/dsa/LruCache.java"
+    },
+    {
+      "title": "Trie Implementation",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-28",
+      "file": "programs/dsa/TrieImplementation.java"
+    },
+    {
+      "title": "Heap Sort",
+      "category": "DSA",
+      "notes": "",
+      "completed_on": "2026-09-28",
+      "file": "programs/dsa/HeapSort.java"
     }
   ]
 }
