@@ -139,6 +139,20 @@
       "notes": "",
       "completed_on": "2026-09-28",
       "file": "programs/dsa/HeapSort.java"
+    },
+    {
+      "title": "Singleton Pattern",
+      "category": "Design Pattern",
+      "notes": "Thread-safe version",
+      "completed_on": "2026-09-29",
+      "file": "programs/design-pattern/SingletonPattern.java"
+    },
+    {
+      "title": "Factory Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-09-29",
+      "file": "programs/design-pattern/FactoryPattern.java"
     }
   ]
 }
