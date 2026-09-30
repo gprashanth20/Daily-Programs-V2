@@ -153,6 +153,20 @@
       "notes": "",
       "completed_on": "2026-09-29",
       "file": "programs/design-pattern/FactoryPattern.java"
+    },
+    {
+      "title": "Builder Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-09-30",
+      "file": "programs/design-pattern/BuilderPattern.java"
+    },
+    {
+      "title": "Observer Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-09-30",
+      "file": "programs/design-pattern/ObserverPattern.java"
     }
   ]
 }
