@@ -167,6 +167,20 @@
       "notes": "",
       "completed_on": "2026-09-30",
       "file": "programs/design-pattern/ObserverPattern.java"
+    },
+    {
+      "title": "Strategy Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-10-01",
+      "file": "programs/design-pattern/StrategyPattern.java"
+    },
+    {
+      "title": "Decorator Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-10-01",
+      "file": "programs/design-pattern/DecoratorPattern.java"
     }
   ]
 }
