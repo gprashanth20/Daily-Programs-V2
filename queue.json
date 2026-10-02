@@ -2,16 +2,6 @@
   "_comment": "Add your own topics anywhere in this list. Each run pops the first 2 entries and moves them to history.json. Keep 'title' short - it becomes the class name (spaces removed).",
   "queue": [
     {
-      "title": "Adapter Pattern",
-      "category": "Design Pattern",
-      "notes": ""
-    },
-    {
-      "title": "Producer Consumer",
-      "category": "Concurrency",
-      "notes": "wait/notify or BlockingQueue"
-    },
-    {
       "title": "Thread Pool Executor Demo",
       "category": "Concurrency",
       "notes": ""

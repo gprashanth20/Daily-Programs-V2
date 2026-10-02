@@ -181,6 +181,20 @@
       "notes": "",
       "completed_on": "2026-10-01",
       "file": "programs/design-pattern/DecoratorPattern.java"
+    },
+    {
+      "title": "Adapter Pattern",
+      "category": "Design Pattern",
+      "notes": "",
+      "completed_on": "2026-10-02",
+      "file": "programs/design-pattern/AdapterPattern.java"
+    },
+    {
+      "title": "Producer Consumer",
+      "category": "Concurrency",
+      "notes": "wait/notify or BlockingQueue",
+      "completed_on": "2026-10-02",
+      "file": "programs/concurrency/ProducerConsumer.java"
     }
   ]
 }
