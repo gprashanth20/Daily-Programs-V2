@@ -195,6 +195,20 @@
       "notes": "wait/notify or BlockingQueue",
       "completed_on": "2026-10-02",
       "file": "programs/concurrency/ProducerConsumer.java"
+    },
+    {
+      "title": "Thread Pool Executor Demo",
+      "category": "Concurrency",
+      "notes": "",
+      "completed_on": "2026-10-03",
+      "file": "programs/concurrency/ThreadPoolExecutorDemo.java"
+    },
+    {
+      "title": "Synchronized Counter",
+      "category": "Concurrency",
+      "notes": "Race condition fix",
+      "completed_on": "2026-10-03",
+      "file": "programs/concurrency/SynchronizedCounter.java"
     }
   ]
 }
