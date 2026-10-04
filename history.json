@@ -209,6 +209,20 @@
       "notes": "Race condition fix",
       "completed_on": "2026-10-03",
       "file": "programs/concurrency/SynchronizedCounter.java"
+    },
+    {
+      "title": "CompletableFuture Chaining",
+      "category": "Concurrency",
+      "notes": "",
+      "completed_on": "2026-10-04",
+      "file": "programs/concurrency/CompletablefutureChaining.java"
+    },
+    {
+      "title": "Deadlock Simulation",
+      "category": "Concurrency",
+      "notes": "",
+      "completed_on": "2026-10-04",
+      "file": "programs/concurrency/DeadlockSimulation.java"
     }
   ]
 }
