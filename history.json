@@ -223,6 +223,20 @@
       "notes": "",
       "completed_on": "2026-10-04",
       "file": "programs/concurrency/DeadlockSimulation.java"
+    },
+    {
+      "title": "Custom Exception Handling",
+      "category": "Core Java",
+      "notes": "",
+      "completed_on": "2026-10-05",
+      "file": "programs/core-java/CustomExceptionHandling.java"
+    },
+    {
+      "title": "Generics Bounded Type",
+      "category": "Core Java",
+      "notes": "",
+      "completed_on": "2026-10-05",
+      "file": "programs/core-java/GenericsBoundedType.java"
     }
   ]
 }
