@@ -237,6 +237,20 @@
       "notes": "",
       "completed_on": "2026-10-05",
       "file": "programs/core-java/GenericsBoundedType.java"
+    },
+    {
+      "title": "Stream API Grouping",
+      "category": "Core Java",
+      "notes": "Collectors.groupingBy",
+      "completed_on": "2026-10-06",
+      "file": "programs/core-java/StreamApiGrouping.java"
+    },
+    {
+      "title": "Optional Chaining",
+      "category": "Core Java",
+      "notes": "",
+      "completed_on": "2026-10-06",
+      "file": "programs/core-java/OptionalChaining.java"
     }
   ]
 }
