@@ -251,6 +251,20 @@
       "notes": "",
       "completed_on": "2026-10-06",
       "file": "programs/core-java/OptionalChaining.java"
+    },
+    {
+      "title": "Records And Pattern Matching",
+      "category": "Java 21",
+      "notes": "",
+      "completed_on": "2026-10-07",
+      "file": "programs/java-21/RecordsAndPatternMatching.java"
+    },
+    {
+      "title": "Sealed Classes Demo",
+      "category": "Java 21",
+      "notes": "",
+      "completed_on": "2026-10-07",
+      "file": "programs/java-21/SealedClassesDemo.java"
     }
   ]
 }
