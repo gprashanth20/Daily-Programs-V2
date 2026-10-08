@@ -265,6 +265,20 @@
       "notes": "",
       "completed_on": "2026-10-07",
       "file": "programs/java-21/SealedClassesDemo.java"
+    },
+    {
+      "title": "Virtual Threads Demo",
+      "category": "Java 21",
+      "notes": "",
+      "completed_on": "2026-10-08",
+      "file": "programs/java-21/VirtualThreadsDemo.java"
+    },
+    {
+      "title": "Switch Pattern Matching",
+      "category": "Java 21",
+      "notes": "",
+      "completed_on": "2026-10-08",
+      "file": "programs/java-21/SwitchPatternMatching.java"
     }
   ]
 }
