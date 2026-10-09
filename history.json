@@ -279,6 +279,20 @@
       "notes": "",
       "completed_on": "2026-10-08",
       "file": "programs/java-21/SwitchPatternMatching.java"
+    },
+    {
+      "title": "Text Blocks And String Templates",
+      "category": "Java 21",
+      "notes": "",
+      "completed_on": "2026-10-09",
+      "file": "programs/java-21/TextBlocksAndStringTemplates.java"
+    },
+    {
+      "title": "File IO Read Write",
+      "category": "Core Java",
+      "notes": "NIO.2 Files API",
+      "completed_on": "2026-10-09",
+      "file": "programs/core-java/FileIoReadWrite.java"
     }
   ]
 }
