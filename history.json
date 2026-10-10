@@ -293,6 +293,20 @@
       "notes": "NIO.2 Files API",
       "completed_on": "2026-10-09",
       "file": "programs/core-java/FileIoReadWrite.java"
+    },
+    {
+      "title": "REST Client Using HttpClient",
+      "category": "Core Java",
+      "notes": "java.net.http",
+      "completed_on": "2026-10-10",
+      "file": "programs/core-java/RestClientUsingHttpclient.java"
+    },
+    {
+      "title": "JSON Parsing Without Library",
+      "category": "Core Java",
+      "notes": "Basic hand-rolled parser",
+      "completed_on": "2026-10-10",
+      "file": "programs/core-java/JsonParsingWithoutLibrary.java"
     }
   ]
 }
